@@ -12,4 +12,5 @@
 !SLIDE bullets incremental
 # Important Question
 * Who owns my identifier and do I trust the owner?
+* Why? to prevent identity lock-in
 
