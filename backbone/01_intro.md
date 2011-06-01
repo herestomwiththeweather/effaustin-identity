@@ -4,11 +4,10 @@
 ## Press c for a table of contents
 
 !SLIDE 
-# Backbone JS
-## Nick Gauthier
-### Baltimore Javascript User Group
-### [@ngauthier](http://twitter.com/ngauthier)
-### [ngauthier@shortmail.com](mailto:ngauthier@shortmail.com)
-### [http://ngauthier-backbone.heroku.com](http://ngauthier-backbone.heroku.com)
-### [http://github.com/ngauthier/backbone-presentation](http://github.com/ngauthier/backbone-presentation)
+# Identity as if People Mattered
+## Tom Brown
+### EFF-Austin Monthly Meeting
+### [@tomwiththeweath](http://twitter.com/tomwiththeweath)
+### [herestomwiththeweather@gmail.com](mailto:herestomwiththeweather@gmail.com)
+### [http://effaustin-identity.heroku.com](http://effaustin-identity.heroku.com)
 

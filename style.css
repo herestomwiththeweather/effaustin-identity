@@ -1,5 +1,5 @@
 #preso, .slide {
-  background: url('/image/backbone/slide-bg.png') no-repeat;
+  background-color: #f8f8f8;
 }
 a, a:visited, a:hover, a:active {
   color: blue;
